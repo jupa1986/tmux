@@ -1,0 +1,7 @@
+pane	Balcazar	1	1	:*	1	arch	:/home/balcazar	1	zsh	:
+pane	Smarthop	1	0	:-	1	arch	:/home/balcazar	1	zsh	:
+pane	Smarthop	2	1	:*	1	arch	:/home/balcazar	1	zsh	:
+window	Balcazar	1	:zsh	1	:*	b91e,266x52,0,0,1	:
+window	Smarthop	1	:VPN	0	:-	b91f,266x52,0,0,2	off
+window	Smarthop	2	:zsh	1	:*	b6c0,133x52,0,0,3	:
+state	Smarthop	Balcazar

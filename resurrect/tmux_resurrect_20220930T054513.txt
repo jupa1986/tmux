@@ -1,0 +1,3 @@
+pane	Balcazar	1	1	:*	1	arch	:/home/balcazar	1	zsh	:
+window	Balcazar	1	:zsh	1	:*	b91d,266x52,0,0,0	:
+state	Balcazar	

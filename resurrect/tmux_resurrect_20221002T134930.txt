@@ -1,0 +1,7 @@
+pane	Balcazar	1	1	:*	1	arch	:/home/balcazar/Desktop	1	zsh	:
+pane	Smarthop	1	1	:*	1	arch	:/home/balcazar	1	ssh	:ssh yarel@34.135.132.42
+pane	Smarthop	2	0	:-	1	arch	:/home/balcazar	1	zsh	:
+window	Balcazar	1	:zsh	1	:*	d25e,255x49,0,0,1	:
+window	Smarthop	1	:VPN	1	:*	c51f,266x55,0,0,2	off
+window	Smarthop	2	:zsh	0	:-	c520,266x55,0,0,3	:
+state	Smarthop	Balcazar

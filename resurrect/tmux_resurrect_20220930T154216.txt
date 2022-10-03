@@ -1,0 +1,11 @@
+pane	Balcazar	1	1	:*	1	arch	:/home/balcazar	1	zsh	:
+pane	Smarthop	1	0	:	1	arch	:/home/balcazar	1	zsh	:
+pane	Smarthop	2	0	:-	1	arch	:/home/balcazar	1	zsh	:
+pane	Smarthop	2	0	:-	2	arch	:/home/balcazar	0	zsh	:
+pane	Smarthop	3	1	:*Z	1	arch	:/home/balcazar	1	ssh	:ssh yarel@34.135.132.42
+pane	Smarthop	3	1	:*Z	2	arch	:/home/balcazar	0	ssh	:ssh yarel@34.135.132.42
+window	Balcazar	1	:zsh	1	:*	b91e,266x52,0,0,1	:
+window	Smarthop	1	:VPN	0	:	b91f,266x52,0,0,2	off
+window	Smarthop	2	:zsh	0	:-	e2e3,266x52,0,0{80x52,0,0,3,185x52,81,0,4}	:
+window	Smarthop	3	:[tmux]	1	:*Z	b888,266x52,0,0[266x26,0,0,7,266x25,0,27,8]	:
+state	Smarthop	

@@ -1,0 +1,10 @@
+pane	Balcazar	1	1	:*	1	arch	:/home/balcazar	1	zsh	:
+pane	Smarthop	1	0	:-	1	arch	:/home/balcazar	1	sudo	:sudo openvpn .ssh/smarthop.ovpn
+pane	Smarthop	2	1	:*	1	arch	:/home/balcazar	1	zsh	:
+pane	Smarthop	2	1	:*	2	arch	:/home/balcazar	0	zsh	:
+pane	Smarthop	3	0	:	1	arch	:/home/balcazar	1	zsh	:
+window	Balcazar	1	:zsh	1	:*	b91e,266x52,0,0,1	:
+window	Smarthop	1	:VPN	0	:-	b91f,266x52,0,0,2	off
+window	Smarthop	2	:zsh	1	:*	62e4,266x52,0,0{80x52,0,0,3,185x52,81,0,5}	:
+window	Smarthop	3	:zsh	0	:	b921,266x52,0,0,4	:
+state	Smarthop	Balcazar
